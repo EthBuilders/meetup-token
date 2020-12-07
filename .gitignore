@@ -1,0 +1,28 @@
+# NPM packages
+node_modules/
+
+# Hardhat
+/artifacts/
+/cache/
+
+# env files
+.env
+
+# npm
+.npmrc
+
+# yarn
+.yarnrc
+yarn-debug.log*
+yarn-error.log*
+
+# lint
+.eslintcache
+
+# vim
+*.swp
+
+# Mac
+.DS_Store
+
+
