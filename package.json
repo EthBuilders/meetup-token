@@ -1,5 +1,15 @@
 {
-  "dependencies": {
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.0.1",
+    "@nomiclabs/hardhat-truffle5": "^2.0.0",
+    "@nomiclabs/hardhat-web3": "^2.0.0",
+    "dotenv": "^8.2.0",
+    "eslint": "^7.11.0",
+    "ethers": "5.0.18",
+    "ganache-cli": "^6.10.2",
     "hardhat": "^2.0.4"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^3.3.0"
   }
 }
